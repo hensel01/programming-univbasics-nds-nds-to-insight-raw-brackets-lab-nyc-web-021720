@@ -4,3 +4,5 @@ def directors_totals(nds)
   
   result = {
   }	  
+  nil
+end	
